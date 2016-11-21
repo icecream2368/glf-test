@@ -1,2 +1,2 @@
 # glf-test
-git-lfs test
+git-lfs test & lfs-test-server test
